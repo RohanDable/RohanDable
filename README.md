@@ -1,4 +1,4 @@
-<img align="middle" height="300" alt="Coding" width="1900" src="https://tehtris.com/wp-content/uploads/2022/04/COVER-MONDE-WEB3-BLOG.jpg">
+<img align="middle" height="300" alt="Coding" width="1900" src="https://camo.githubusercontent.com/166a6af24d787a35796e6fd4a858a390f3c8b8d687203d85f4f1eeb57ce7a6c8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f33466a4550624b7145506850706d433875592f67697068792e676966">
 <h1 align="center">Hi 👋, I'm Rohan Dable</h1>
 <h3 align="center">⌛A passionate MERN Stack Developer and Competitive Programmer from India</h3>
 <img align="right" alt="Coding" height="400" width="300" src="https://images.squarespace-cdn.com/content/v1/5fcba1c2b95b0e726f64d35f/4525a47e-b9e0-4146-82cf-463e3eb90aaf/10.+Pepper.+SoftBank+Robotics%C2%A9Wanda+Tuerlinckx.jpg?format=750w">

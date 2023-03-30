@@ -10,8 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **MERN,Competitive Programming,Open Source,Trading,Quantitative Finance <img align="middle" height="3" alt="Coding" width="19" src="https://media4.giphy.com/media/JtBZm3Getg3dqxK0zP/…9u8ppkt52ud8kkox1wvx2lqodrj52qj&rid=200w.gif&ct=g
-">**
+- 💬 Ask me about **MERN , Competitive Programming , Open Source , Quantitative Finance💹**
 
 - 📫 How to reach me **rohandable016@gmail.com**
 

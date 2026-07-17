@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Rohan%20Dable&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20|%20Data%20Scientist%20|%20AI%20Agent%20Developer&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Rohan%20Dable&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20|%20Data%20Scientist%20|%20AI%20AI%20Researcher&descAlignY=60" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Rohan Dable</h1>

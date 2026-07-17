@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋 I'm Rohan Dable</h1>
 
 <p align="center">
-<b>GenAI Engineer • Data Scientist • AI Agent Developer</b>
+<b>GenAI Engineer • Data Scientist • AI Researcher</b>
 </p>
 
 <p align="center">

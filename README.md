@@ -1,210 +1,200 @@
-<img align="center" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRqaGxqMmU2dm44a2VmdWV0MDR6aWg0cnV4YXRrN3V0dDFsM3JzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-<h1 align="center">Hi 👋, I'm Rohan Dable</h1>
-
-<h3 align="center">
-🚀 GenAI Engineer | Data Scientist | AI Agent Developer | LLM Enthusiast
-</h3>
+<!-- ========================================= -->
+<!--              GitHub Profile README        -->
+<!-- ========================================= -->
 
 <p align="center">
-Building Intelligent AI Systems using <b>LLMs • RAG • Multi-Agent Systems • AI Automation</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=Rohan%20Dable&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20|%20Data%20Scientist%20|%20AI%20Agent%20Developer&descAlignY=60" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Rohan Dable</h1>
+
+<p align="center">
+<b>GenAI Engineer • Data Scientist • AI Agent Developer</b>
+</p>
+
+<p align="center">
+Designing intelligent systems with LLMs, RAG and Agentic AI.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rohandable&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/rohandable?label=Followers&style=flat" />
+<img src="https://img.shields.io/github/stars/rohandable?affiliations=OWNER&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
+# About Me
 
-- 💼 Working as a **GenAI Engineer**
-- 🤖 Passionate about **Generative AI, Agentic AI & Data Science**
-- 🧠 Building AI Agents using **LangChain, LangGraph, CrewAI & AutoGen**
-- 🔍 Developing **Retrieval-Augmented Generation (RAG)** Applications
-- ☁️ Working with **Azure OpenAI, IBM watsonx.ai & AWS**
-- 📊 Experienced in **Machine Learning, Deep Learning & NLP**
-- ⚡ Interested in AI Automation, Multi-Agent Systems and AI Products
-- 🌱 Currently exploring **Model Context Protocol (MCP), AI Workflows & Advanced Agent Architectures**
-- 👯 Looking to collaborate on **Open Source AI & GenAI Projects**
+- 🚀 Building production-ready AI applications
+- 🤖 Passionate about LLMs, Agentic AI and Machine Learning
+- 🔍 Developing Retrieval-Augmented Generation (RAG) systems
+- ☁️ Experience with Azure OpenAI, IBM watsonx.ai and AWS
+- 📚 Exploring Model Context Protocol (MCP), AI Workflows and Multi-Agent Systems
+- 💡 Always learning and experimenting with new AI technologies
 
 ---
 
-## 💬 Ask Me About
+# Tech Stack
 
-- 🤖 Large Language Models (LLMs)
-- 🧠 Generative AI
-- 🔗 LangChain
-- 🌐 LangGraph
-- 🤝 CrewAI
-- 🧩 AutoGen
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🗄️ Vector Databases
-- 🔎 Elasticsearch
-- 🧠 Prompt Engineering
-- 📈 Machine Learning
-- 📊 Data Science
-- ☁️ Azure OpenAI
-- ☁️ IBM watsonx.ai
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🐍 Python
+### AI & LLMs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45"/>
+
+</p>
+
+`LangChain`
+`LangGraph`
+`LlamaIndex`
+`CrewAI`
+`AutoGen`
+`OpenAI`
+`Azure OpenAI`
+`IBM watsonx.ai`
+`Transformers`
+`Hugging Face`
+`Prompt Engineering`
+`RAG`
+`AI Agents`
+`MCP`
 
 ---
 
-## 📫 Contact Me
+### Data Science
 
-📧 **Email:** **rohandable016@gmail.com**
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+
+</p>
+
+`Pandas`
+`NumPy`
+`Scikit-Learn`
+`XGBoost`
+`Matplotlib`
+`Seaborn`
+`NLP`
+`Deep Learning`
 
 ---
 
-## 🌐 Connect with Me
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="45"/>
+
+</p>
+
+`Elasticsearch`
+`FAISS`
+`ChromaDB`
+`Pinecone`
+
+---
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,vscode" height="45"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- AI Agents
+- Enterprise RAG
+- Agentic AI
+- LLM Applications
+- AI Automation
+- MLOps
+- Scalable AI Systems
+
+---
+
+# Connect
 
 <p align="left">
-<a href="https://twitter.com/dablerohan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/rohan-dable-276957219">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-dable-276957219" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://twitter.com/dablerohan">
+<img src="https://skillicons.dev/icons?i=twitter" height="42"/>
 </a>
 
-<a href="https://instagram.com/https://instagram.com/rohan_dable2026?igshid=yzg5mtu1mdy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/rohan_dable2026">
+<img src="https://skillicons.dev/icons?i=instagram" height="42"/>
 </a>
 
-<a href="https://medium.com/@saggihatake10" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+<a href="https://medium.com/@saggihatake10">
+<img src="https://cdn.simpleicons.org/medium/ffffff" height="40"/>
 </a>
+
 </p>
 
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java" />
-</p>
+📧 **rohandable016@gmail.com**
 
 ---
 
-### 🤖 AI / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-- LangChain
-- LangGraph
-- LlamaIndex
-- CrewAI
-- AutoGen
-- OpenAI
-- Azure OpenAI
-- IBM watsonx.ai
-- Hugging Face
-- Transformers
-- Prompt Engineering
-- RAG
-- AI Agents
-- MCP
-- Function Calling
-
----
-
-### 📊 Data Science & Machine Learning
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- XGBoost
-- LightGBM
-- NLP
-- Deep Learning
-- Computer Vision
-
----
-
-### 🗄️ Databases & Vector Stores
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-- Elasticsearch
-- Pinecone
-- FAISS
-- ChromaDB
-- Milvus
-- Weaviate
-
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux" />
-</p>
-
----
-
-### 🛠️ Tools
-
-- VS Code
-- Jupyter Notebook
-- Postman
-- Git
-- GitHub
-- IBM Cloud
-- Azure AI Studio
-- Google Colab
-
----
-
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rohandable&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohandable&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandable&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohandable&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohandable&theme=tokyonight"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=rohandable&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohandable&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Current Focus
+# Achievements
 
-✔ Building Production-ready AI Agents
+<p align="center">
 
-✔ Enterprise RAG Applications
+<img src="https://github-profile-trophy.vercel.app/?username=rohandable&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
-✔ Agentic AI Systems
-
-✔ LLM Fine-Tuning
-
-✔ AI Automation
-
-✔ Multi-Agent Collaboration
-
-✔ Model Context Protocol (MCP)
-
-✔ AI Deployment & MLOps
+</p>
 
 ---
 
-## 📚 Quote
+# Quote
 
-> *"The future belongs to those who build intelligence, not just software."* 🚀
+<p align="center">
+
+> **"Building intelligence that creates real-world impact."**
+
+</p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, don't forget to Star my repositories!
+
+⭐ If you like my work, consider starring my repositories.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
 </p>
